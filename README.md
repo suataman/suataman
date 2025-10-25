@@ -2,7 +2,7 @@
 **Bilgisayar Mühendisi | Görüntü İşleme & Yapay Zeka Meraklısı**
 
 ## 🎯 Hakkımda  
-bir mühendis olarak, görüntü işleme (YOLO, OpenCV), yapay zeka ve web programlama alanlarına odaklanmaktayım. Teknik ekiplerde yazılım geliştirme, algoritma tasarımı ve sistem entegrasyonu süreçlerinde aktif rol alıyorum. İstanbul/Esenyurt merkezli çalışıyorum.
+bir mühendis olarak, görüntü işleme (YOLO, OpenCV), yapay zeka ve web programlama alanlarına odaklanmaktayım. Teknik ekiplerde yazılım geliştirme, algoritma tasarımı ve sistem entegrasyonu süreçlerinde aktif rol alıyorum. 
 
 ## 📍 İletişim  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/umutsuataman)  
