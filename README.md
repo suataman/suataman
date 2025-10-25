@@ -5,7 +5,6 @@
 bir mühendis olarak, görüntü işleme (YOLO, OpenCV), yapay zeka ve web programlama alanlarına odaklanmaktayım. Teknik ekiplerde yazılım geliştirme, algoritma tasarımı ve sistem entegrasyonu süreçlerinde aktif rol alıyorum. İstanbul/Esenyurt merkezli çalışıyorum.
 
 ## 📍 İletişim  
-- 📞 +90 538 484 29 37  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/umutsuataman)  
 - 🐙 [GitHub](https://github.com/suataman)  
 - ✉️ sutamanumut@gmail.com  
