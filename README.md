@@ -31,8 +31,7 @@ bir mühendis olarak, görüntü işleme (YOLO, OpenCV), yapay zeka ve web progr
   GPA: 2.95  
 
 ## 🧩 Diller  
-- Türkçe (Ana dil)  
-- İngilizce (İyi seviye)  
+- İngilizce   
 
 ---
 
