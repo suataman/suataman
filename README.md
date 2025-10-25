@@ -27,7 +27,7 @@ bir mühendis olarak, görüntü işleme (YOLO, OpenCV), yapay zeka ve web progr
   ROS2 tabanlı altyapıda sensör entegrasyonu, görsel odometri (VIO) ve simülasyon ortamlarıyla çalıştım.  
 
 ## 🎓 Eğitim  
-- **Balıkesir Üniversitesi – Bilgisayar Mühendisliği (2021-2025)  
+- **Balıkesir Üniversitesi – Bilgisayar Mühendisliği (2021-2025)**  
   GPA: 2.95  
 
 ## 🧩 Diller  
