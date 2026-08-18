@@ -26,7 +26,7 @@ I'm an engineer focused on computer vision, applied machine learning, and autono
 
 ##  Featured Projects
 
-### [Heart Disease Risk Prediction](https://github.com/suataman/Heart_Disease_Prediction_Analysis) *(update once repo is live)*
+### [Heart Disease Risk Prediction](https://github.com/suataman/Heart_Disease_Prediction_Analysis) 
 A machine learning classification model predicting heart disease risk from patient data. Full write-up on Medium: [Kalbin Verilerle Konuşması](https://medium.com/@suatamanumut/kalbin-verilerle-konu%C5%9Fmas%C4%B1-makine-%C3%B6%C4%9Frenmesi-ile-kalp-hastal%C4%B1%C4%9F%C4%B1-riskini-tahmin-etmek-846e8ee155d0)
 
 
